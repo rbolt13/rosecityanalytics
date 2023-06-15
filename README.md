@@ -1,5 +1,5 @@
 <h1 align="center">
-Static Website
+Rose City Analytics
 </h1>
 
 This repository contains the code for the website of [Rose City Analytics](https://rosecityanalytics.netlify.app/).
