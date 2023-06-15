@@ -1,0 +1,16 @@
+project:
+  type: website
+
+website:
+  title: "Rose City Analytics"
+  navbar:
+    search: true
+
+format:
+  html:
+    theme: cosmo
+    css: sty/styles.css
+    toc: true
+
+
+
