@@ -42,6 +42,8 @@ sh docker_build.sh
 
 [analythium/quarto-docker-examples](https://github.com/analythium/quarto-docker-examples)
 
+[beehiiv](https://www.beehiiv.com/)
+
 [How to Set Up Quarto with Docker, Part 1: Static Content - Render a static project, Website](https://hosting.analythium.io/how-to-set-up-quarto-with-docker-part-1-static-content/#website)
 
 [Quarto - Creating a Website (Docs)](https://quarto.org/docs/websites/)
