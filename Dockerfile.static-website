@@ -2,6 +2,7 @@ FROM analythium/r2u-quarto:20.04 AS builder
 
 COPY static-website /app
 WORKDIR /app
+RUN mkdir output
 RUN quarto render --output-dir output
 
 FROM ghcr.io/openfaas/of-watchdog:0.9.6 AS watchdog
