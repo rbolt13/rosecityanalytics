@@ -1,0 +1,20 @@
+---
+format: 
+  html:
+    toc: false
+---
+
+# About
+
+Based in the vibrant city of Portland, OR, we specialize in helping businesses leverage the power of data to drive growth, make informed decisions, and stay ahead of the competition. Our mission is to empower businesses with actionable insights that lead to tangible results. 
+
+# Services 
+
+* Data Analytics: Comprehensive data analytics services, encompassing data collection, cleansing, modeling, and interpretation. 
+
+* Data Visualization: Transform complex data into intuitive visualizations and interactive dashboards that facilitate easy understanding and communication of insights. 
+
+* Predictive Analytics: Leverage the power of predictive modeling to forecast trends, identify patterns, and make informed predictions. 
+
+* Training and Support: Become self-sufficient in analytics with training programs to equip your team with the necessary skills and knowledge to leverage analytics tools effectively.
+

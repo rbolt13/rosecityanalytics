@@ -5,6 +5,15 @@ website:
   title: "Rose City Analytics"
   navbar:
     search: true
+    right: 
+      - text: Menu
+        menu:
+          - text: About
+            href: about.qmd
+          - text: Projects
+            href: projects.qmd
+          - text: Blog
+            href: blog.qmd
 
 format:
   html:

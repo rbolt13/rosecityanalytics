@@ -1,25 +1,27 @@
 ---
+image: img/rose.png
+about:
+  template: broadside
+  links:
+   - icon: flower3
+     href: https://rosecityanalytics.netlify.app/      
+   - icon: envelope
+     href: mailto:randibolt93@gmail.com
+   - icon: github
+     href: https://github.com/rbolt13/rosecityanalytics
+   - icon: envelope
+     href: mailto:randibolt93@gmail.com
 format:
   html:
     toc: false
 ---
 
-# About
+<center>
 
-Based in the vibrant city of Portland, OR, we specialize in helping businesses leverage the power of data to drive growth, make informed decisions, and stay ahead of the competition. Our mission is to empower businesses with actionable insights that lead to tangible results. 
+[**Learn About Rose City Analytics**](https://rosecityanalytics.netlify.app/)
 
-# Services 
+Portland Oregon's Newest Analytics Provider
 
-* Data Analytics: Comprehensive data analytics services, encompassing data collection, cleansing, modeling, and interpretation. 
-
-* Data Visualization: Transform complex data into intuitive visualizations and interactive dashboards that facilitate easy understanding and communication of insights. 
-
-* Predictive Analytics: Leverage the power of predictive modeling to forecast trends, identify patterns, and make informed predictions. 
-
-* Training and Support: Become self-sufficient in analytics with training programs to equip your team with the necessary skills and knowledge to leverage analytics tools effectively.
-
-# Contact 
-
-Contact us today to explore how we can help you navigate the data-driven landscape and achieve your business goals. 
+</center>
 
 <iframe src="https://embeds.beehiiv.com/6a0e3abc-8457-4e81-bb40-ddc08fff8feb" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
